@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1011,
+    "codigo": "PLQ-1011",
+    "empresa": "Plaquinha #1011 (Em Estoque)",
+    "responsavel": "Aguardando Venda / Cliente",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "endereco": "",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "disponivel",
+    "modoDestino": "google_review",
+    "valorCobrado": 139,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "",
+    "googleReviewUrl": "",
+    "scansTotal": 0,
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "/r/1011"
+    },
+    "criadoEm": "2026-09-23T15:29:54.592Z",
+    "atualizadoEm": "2026-09-23T15:29:54.592Z"
+  },
+  {
+    "id": 1010,
+    "codigo": "PLQ-1010",
+    "empresa": "Plaquinha #1010 (Em Estoque)",
+    "responsavel": "Aguardando Venda / Cliente",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "endereco": "",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "disponivel",
+    "modoDestino": "instagram",
+    "valorCobrado": 139,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "",
+    "googleReviewUrl": "",
+    "scansTotal": 0,
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "/r/1010"
+    },
+    "criadoEm": "2026-09-23T15:29:54.592Z",
+    "atualizadoEm": "2026-09-23T16:07:56.751Z"
+  },
+  {
+    "id": 1009,
+    "codigo": "PLQ-1009",
+    "empresa": "Plaquinha #1009 (Em Estoque)",
+    "responsavel": "Aguardando Venda / Cliente",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "endereco": "",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "disponivel",
+    "modoDestino": "google_review",
+    "valorCobrado": 139,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "",
+    "googleReviewUrl": "",
+    "scansTotal": 0,
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "/r/1009"
+    },
+    "criadoEm": "2026-09-23T15:29:54.592Z",
+    "atualizadoEm": "2026-09-23T15:29:54.592Z"
+  },
+  {
+    "id": 1008,
+    "codigo": "PLQ-1008",
+    "empresa": "Plaquinha #1008 (Em Estoque)",
+    "responsavel": "Aguardando Venda / Cliente",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "endereco": "",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "disponivel",
+    "modoDestino": "google_review",
+    "valorCobrado": 139,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "",
+    "googleReviewUrl": "",
+    "scansTotal": 0,
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "/r/1008"
+    },
+    "criadoEm": "2026-09-23T15:29:54.592Z",
+    "atualizadoEm": "2026-09-23T15:29:54.592Z"
+  },
+  {
+    "id": 1007,
+    "codigo": "PLQ-1007",
+    "empresa": "Plaquinha #1007 (Em Estoque)",
+    "responsavel": "Aguardando Venda / Cliente",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "endereco": "",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "disponivel",
+    "modoDestino": "google_review",
+    "valorCobrado": 139,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "",
+    "googleReviewUrl": "",
+    "scansTotal": 0,
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "/r/1007"
+    },
+    "criadoEm": "2026-09-23T15:29:54.592Z",
+    "atualizadoEm": "2026-09-23T15:29:54.592Z"
+  },
+  {
+    "id": 1006,
+    "codigo": "PLQ-1006",
+    "empresa": "Plaquinha #1006 (Em Estoque)",
+    "responsavel": "Aguardando Venda / Cliente",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "endereco": "",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "disponivel",
+    "modoDestino": "google_review",
+    "valorCobrado": 139,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "",
+    "googleReviewUrl": "",
+    "scansTotal": 0,
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "/r/1006"
+    },
+    "criadoEm": "2026-09-23T15:29:54.592Z",
+    "atualizadoEm": "2026-09-23T15:29:54.592Z"
+  },
+  {
+    "id": 1005,
+    "codigo": "PLQ-1005",
+    "empresa": "Plaquinha #1005 (Em Estoque)",
+    "responsavel": "Aguardando Venda / Cliente",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "endereco": "",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "disponivel",
+    "modoDestino": "google_review",
+    "valorCobrado": 139,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "",
+    "googleReviewUrl": "",
+    "scansTotal": 0,
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "/r/1005"
+    },
+    "criadoEm": "2026-09-23T15:29:54.592Z",
+    "atualizadoEm": "2026-09-23T15:29:54.592Z"
+  },
+  {
+    "id": 1004,
+    "codigo": "PLQ-1004",
+    "empresa": "Plaquinha #1004 (Em Estoque)",
+    "responsavel": "Aguardando Venda / Cliente",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "endereco": "",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "disponivel",
+    "modoDestino": "google_review",
+    "valorCobrado": 139,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "",
+    "googleReviewUrl": "",
+    "scansTotal": 0,
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "/r/1004"
+    },
+    "criadoEm": "2026-09-23T15:29:54.592Z",
+    "atualizadoEm": "2026-09-23T15:29:54.592Z"
+  },
+  {
+    "id": 1003,
+    "codigo": "PLQ-1003",
+    "empresa": "Plaquinha #1003 (Em Estoque)",
+    "responsavel": "Aguardando Venda / Cliente",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "endereco": "",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "disponivel",
+    "modoDestino": "google_review",
+    "valorCobrado": 139,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "",
+    "googleReviewUrl": "",
+    "scansTotal": 0,
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "/r/1003"
+    },
+    "criadoEm": "2026-09-23T15:29:54.592Z",
+    "atualizadoEm": "2026-09-23T15:29:54.592Z"
+  },
+  {
+    "id": 1002,
+    "codigo": "PLQ-1002",
+    "empresa": "Espaço For Men com Super Massagem para homens",
+    "responsavel": "MICHELE",
+    "telefone": "",
+    "cidade": "",
+    "estado": "SP",
+    "endereco": "",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "instalado",
+    "modoDestino": "google_review",
+    "valorCobrado": 139,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "ChIJrVhGr_F5oQcR8Rvmz7qEsIY",
+    "googleReviewUrl": "https://search.google.com/local/writereview?placeid=ChIJrVhGr_F5oQcR8Rvmz7qEsIY",
+    "scansTotal": 1,
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "/r/1002"
+    },
+    "criadoEm": "2026-09-23T15:29:54.592Z",
+    "atualizadoEm": "2026-09-23T15:44:34.000Z",
+    "ultimoScan": "2026-09-23T15:43:39.017Z",
+    "email": ""
+  },
+  {
+    "empresa": "OFICINA JOÃO BOSCO",
+    "responsavel": "JOÃO BOSCO",
+    "telefone": "(88) 98827-2734",
+    "email": "",
+    "cidade": "Juazeiro Do norte",
+    "estado": "CEARA",
+    "endereco": "R. Const. José Sabino, 128 A - Cajuína São Geraldo, Juazeiro do Norte - CE, 63022-100, Brasil",
+    "tipoPlaquinha": "acrilico",
+    "statusVenda": "visitado",
+    "valorCobrado": 149.9,
+    "dataVisita": "2026-09-23",
+    "googlePlaceId": "ChIJIyTYujmDoQcR3DNNa1M3nJE",
+    "googleReviewUrl": "https://search.google.com/local/writereview?placeid=ChIJIyTYujmDoQcR3DNNa1M3nJE",
+    "modulosAtivos": {
+      "googleReview": true,
+      "pix": false,
+      "whatsapp": false,
+      "instagram": false,
+      "wifi": false,
+      "vcard": false,
+      "customUrl": false
+    },
+    "dadosModulos": {},
+    "designQr": {
+      "corFrente": "#0f172a",
+      "corFundo": "#ffffff",
+      "logoCentro": "google"
+    },
+    "nfcConfig": {
+      "gravado": false,
+      "tipoGravacao": "landing_page_plaquinha",
+      "urlGravada": "http://localhost:3000/p/1001"
+    },
+    "id": 1001,
+    "codigo": "PLQ-1001",
+    "criadoEm": "2026-09-23T15:16:27.710Z",
+    "atualizadoEm": "2026-09-23T16:23:25.175Z",
+    "scansTotal": 6,
+    "ultimoScan": "2026-09-23T16:31:31.291Z",
+    "modoDestino": "google_review"
+  }
+]

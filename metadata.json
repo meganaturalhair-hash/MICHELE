@@ -1,0 +1,6 @@
+{
+  "name": "Google Business Review Link & Automation API",
+  "description": "Encontre estabelecimentos no Google Meu Negócio, gere links diretos de avaliação 5 estrelas e exporte dados via API REST para automação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
